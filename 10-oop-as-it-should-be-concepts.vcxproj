@@ -129,6 +129,9 @@
   <ItemGroup>
     <ClCompile Include="10-oop-as-it-should-be-concepts.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="L02_ClassesAndObjects.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
