@@ -133,6 +133,7 @@
     <ClInclude Include="L02_ClassesAndObjects.h" />
     <ClInclude Include="L05_AccessSpecifiers.h" />
     <ClInclude Include="L06_PropertiesSetAndGet.h" />
+    <ClInclude Include="L07_ReadOnlyProperty.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
