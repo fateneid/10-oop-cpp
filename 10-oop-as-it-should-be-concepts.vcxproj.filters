@@ -23,5 +23,11 @@
     <ClInclude Include="L02_ClassesAndObjects.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="L05_AccessSpecifiers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="L06_PropertiesSetAndGet.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

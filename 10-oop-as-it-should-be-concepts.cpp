@@ -1,5 +1,7 @@
 #include <iostream>
 #include "L02_ClassesAndObjects.h"
+#include "L05_AccessSpecifiers.h"
+#include "L06_PropertiesSetAndGet.h"
 
 using namespace std;
 
@@ -7,7 +9,7 @@ using namespace std;
 int main()
 {
 
-	L02_ClassesAndObjects::Task();
+	L06_PropertiesSetAndGet::Task();
 
 
 

@@ -131,6 +131,8 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="L02_ClassesAndObjects.h" />
+    <ClInclude Include="L05_AccessSpecifiers.h" />
+    <ClInclude Include="L06_PropertiesSetAndGet.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
