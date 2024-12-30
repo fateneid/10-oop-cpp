@@ -3,6 +3,7 @@
 #include "L05_AccessSpecifiers.h"
 #include "L06_PropertiesSetAndGet.h"
 #include "L07_ReadOnlyProperty.h"
+#include "L08_PropertiesSetAndGetThroughEquals.h"
 
 using namespace std;
 
@@ -10,7 +11,7 @@ using namespace std;
 int main()
 {
 
-	L07_ReadOnlyProperty::Task();
+	L08_PropertiesSetAndGetThroughEquals::Task();
 
 
 

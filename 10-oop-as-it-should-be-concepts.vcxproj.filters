@@ -32,5 +32,8 @@
     <ClInclude Include="L07_ReadOnlyProperty.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="L08_PropertiesSetAndGetThroughEquals.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
