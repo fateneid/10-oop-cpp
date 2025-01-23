@@ -44,5 +44,8 @@
     <ClInclude Include="L15_Destructors.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="L16_StaticMembers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

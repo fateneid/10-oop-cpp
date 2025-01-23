@@ -7,6 +7,7 @@
 #include "Project1_Calculator.h"
 #include "L13_Constructors.h"
 #include "L15_Destructors.h"
+#include "L16_StaticMembers.h"
 
 using namespace std;
 
@@ -14,7 +15,7 @@ using namespace std;
 int main()
 {
 
-	L15_Destructors::Task();
+	L16_StaticMembers::Task();
 
 
 

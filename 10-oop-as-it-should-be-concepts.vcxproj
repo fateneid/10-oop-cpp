@@ -137,6 +137,7 @@
     <ClInclude Include="L08_PropertiesSetAndGetThroughEquals.h" />
     <ClInclude Include="L13_Constructors.h" />
     <ClInclude Include="L15_Destructors.h" />
+    <ClInclude Include="L16_StaticMembers.h" />
     <ClInclude Include="Project1_Calculator.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
