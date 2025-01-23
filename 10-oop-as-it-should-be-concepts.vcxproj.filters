@@ -41,5 +41,8 @@
     <ClInclude Include="L13_Constructors.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="L15_Destructors.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

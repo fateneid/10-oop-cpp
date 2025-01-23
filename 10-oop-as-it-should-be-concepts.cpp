@@ -6,6 +6,7 @@
 #include "L08_PropertiesSetAndGetThroughEquals.h"
 #include "Project1_Calculator.h"
 #include "L13_Constructors.h"
+#include "L15_Destructors.h"
 
 using namespace std;
 
@@ -13,7 +14,7 @@ using namespace std;
 int main()
 {
 
-	L13_Constructors::Task();
+	L15_Destructors::Task();
 
 
 
