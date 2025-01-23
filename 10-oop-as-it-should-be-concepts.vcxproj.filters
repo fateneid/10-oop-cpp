@@ -35,5 +35,8 @@
     <ClInclude Include="L08_PropertiesSetAndGetThroughEquals.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Project1_Calculator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

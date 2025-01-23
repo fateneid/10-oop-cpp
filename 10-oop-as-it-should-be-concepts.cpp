@@ -4,6 +4,7 @@
 #include "L06_PropertiesSetAndGet.h"
 #include "L07_ReadOnlyProperty.h"
 #include "L08_PropertiesSetAndGetThroughEquals.h"
+#include "Project1_Calculator.h"
 
 using namespace std;
 
@@ -11,7 +12,7 @@ using namespace std;
 int main()
 {
 
-	L08_PropertiesSetAndGetThroughEquals::Task();
+	Project1_Calculator::Task();
 
 
 
