@@ -9,6 +9,7 @@
 #include "L15_Destructors.h"
 #include "L16_StaticMembers.h"
 #include "L17_StaticMethods.h"
+#include "Exercise1_Person.h"
 
 using namespace std;
 
@@ -16,7 +17,7 @@ using namespace std;
 int main()
 {
 
-	L17_StaticMethods::Task();
+	Exercise1_Person::Task();
 
 
 
