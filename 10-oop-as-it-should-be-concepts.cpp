@@ -8,6 +8,7 @@
 #include "L13_Constructors.h"
 #include "L15_Destructors.h"
 #include "L16_StaticMembers.h"
+#include "L17_StaticMethods.h"
 
 using namespace std;
 
@@ -15,7 +16,7 @@ using namespace std;
 int main()
 {
 
-	L16_StaticMembers::Task();
+	L17_StaticMethods::Task();
 
 
 
