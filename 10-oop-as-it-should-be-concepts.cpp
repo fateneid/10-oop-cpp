@@ -10,6 +10,7 @@
 #include "L16_StaticMembers.h"
 #include "L17_StaticMethods.h"
 #include "Exercise1_Person.h"
+#include "Exercise2_Employee.h"
 
 using namespace std;
 
@@ -17,7 +18,7 @@ using namespace std;
 int main()
 {
 
-	Exercise1_Person::Task();
+	Exercise2_Employee::Task();
 
 
 

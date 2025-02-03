@@ -131,6 +131,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Exercise1_Person.h" />
+    <ClInclude Include="Exercise2_Employee.h" />
     <ClInclude Include="L02_ClassesAndObjects.h" />
     <ClInclude Include="L05_AccessSpecifiers.h" />
     <ClInclude Include="L06_PropertiesSetAndGet.h" />
