@@ -50,5 +50,14 @@
     <ClInclude Include="L17_StaticMethods.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Exercise1_Person.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Exercise2_Employee.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Exercise2_EmployeeWithInheritance.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

@@ -11,6 +11,7 @@
 #include "L17_StaticMethods.h"
 #include "Exercise1_Person.h"
 #include "Exercise2_Employee.h"
+#include "Exercise2_EmployeeWithInheritance.h"
 
 using namespace std;
 
@@ -18,7 +19,7 @@ using namespace std;
 int main()
 {
 
-	Exercise2_Employee::Task();
+	Exercise2_EmployeeWithInheritance::Task();
 
 
 
