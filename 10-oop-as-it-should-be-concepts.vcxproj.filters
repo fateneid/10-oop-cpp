@@ -59,5 +59,8 @@
     <ClInclude Include="Exercise2_EmployeeWithInheritance.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Exercise3_Developer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

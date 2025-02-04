@@ -12,6 +12,7 @@
 #include "Exercise1_Person.h"
 #include "Exercise2_Employee.h"
 #include "Exercise2_EmployeeWithInheritance.h"
+#include "Exercise3_Developer.h"
 
 using namespace std;
 
@@ -19,7 +20,7 @@ using namespace std;
 int main()
 {
 
-	Exercise2_EmployeeWithInheritance::Task();
+	Exercise3_Developer::Task();
 
 
 
