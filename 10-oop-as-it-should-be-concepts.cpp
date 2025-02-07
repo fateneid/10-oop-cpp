@@ -14,6 +14,7 @@
 #include "Exercise2_EmployeeWithInheritance.h"
 #include "Exercise3_Developer.h"
 #include "Homework_NestedClasses.h"
+#include "L_SeparateClassesInLibraries.h"
 
 using namespace std;
 
@@ -21,7 +22,8 @@ using namespace std;
 int main()
 {
 
-	Homework_NestedClasses::Task();
+	L_SeparateClassesInLibraries::Task();
+
 
 
 
