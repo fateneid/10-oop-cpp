@@ -134,6 +134,7 @@
     <ClInclude Include="Exercise2_Employee.h" />
     <ClInclude Include="Exercise2_EmployeeWithInheritance.h" />
     <ClInclude Include="Exercise3_Developer.h" />
+    <ClInclude Include="Homework_NestedClasses.h" />
     <ClInclude Include="L02_ClassesAndObjects.h" />
     <ClInclude Include="L05_AccessSpecifiers.h" />
     <ClInclude Include="L06_PropertiesSetAndGet.h" />

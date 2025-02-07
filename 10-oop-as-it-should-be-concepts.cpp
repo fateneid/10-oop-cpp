@@ -13,6 +13,7 @@
 #include "Exercise2_Employee.h"
 #include "Exercise2_EmployeeWithInheritance.h"
 #include "Exercise3_Developer.h"
+#include "Homework_NestedClasses.h"
 
 using namespace std;
 
@@ -20,7 +21,7 @@ using namespace std;
 int main()
 {
 
-	Exercise3_Developer::Task();
+	Homework_NestedClasses::Task();
 
 
 
