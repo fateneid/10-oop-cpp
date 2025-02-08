@@ -132,6 +132,7 @@
   <ItemGroup>
     <ClInclude Include="clsEmployee.h" />
     <ClInclude Include="clsPerson.h" />
+    <ClInclude Include="clsString.h" />
     <ClInclude Include="Exercise1_Person.h" />
     <ClInclude Include="Exercise2_Employee.h" />
     <ClInclude Include="Exercise2_EmployeeWithInheritance.h" />
@@ -148,6 +149,7 @@
     <ClInclude Include="L17_StaticMethods.h" />
     <ClInclude Include="L_SeparateClassesInLibraries.h" />
     <ClInclude Include="Project1_Calculator.h" />
+    <ClInclude Include="Project2_StringLibrary.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
