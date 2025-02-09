@@ -130,6 +130,7 @@
     <ClCompile Include="10-oop-as-it-should-be-concepts.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="clsDate.h" />
     <ClInclude Include="clsEmployee.h" />
     <ClInclude Include="clsPerson.h" />
     <ClInclude Include="clsString.h" />
@@ -150,6 +151,7 @@
     <ClInclude Include="L_SeparateClassesInLibraries.h" />
     <ClInclude Include="Project1_Calculator.h" />
     <ClInclude Include="Project2_StringLibrary.h" />
+    <ClInclude Include="Project3_DateLibrary.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

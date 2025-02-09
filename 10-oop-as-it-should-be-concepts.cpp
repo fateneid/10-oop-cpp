@@ -16,6 +16,7 @@
 #include "Homework_NestedClasses.h"
 #include "L_SeparateClassesInLibraries.h"
 #include "Project2_StringLibrary.h"
+#include "Project3_DateLibrary.h"
 
 using namespace std;
 
@@ -23,7 +24,7 @@ using namespace std;
 int main()
 {
 
-	Project2_StringLibrary::Task();
+	Project3_DateLibrary::Task();
 
 
 
