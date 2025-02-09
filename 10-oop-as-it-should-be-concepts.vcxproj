@@ -132,6 +132,7 @@
   <ItemGroup>
     <ClInclude Include="clsDate.h" />
     <ClInclude Include="clsEmployee.h" />
+    <ClInclude Include="clsPeriod.h" />
     <ClInclude Include="clsPerson.h" />
     <ClInclude Include="clsString.h" />
     <ClInclude Include="Exercise1_Person.h" />
@@ -152,6 +153,7 @@
     <ClInclude Include="Project1_Calculator.h" />
     <ClInclude Include="Project2_StringLibrary.h" />
     <ClInclude Include="Project3_DateLibrary.h" />
+    <ClInclude Include="Project4_PeriodClass.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
