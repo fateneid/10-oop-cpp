@@ -17,6 +17,7 @@
 #include "L_SeparateClassesInLibraries.h"
 #include "Project2_StringLibrary.h"
 #include "Project3_DateLibrary.h"
+#include "Project4_PeriodClass.h"
 
 using namespace std;
 
@@ -24,7 +25,7 @@ using namespace std;
 int main()
 {
 
-	Project3_DateLibrary::Task();
+	Project4_PeriodClass::Task();
 
 
 
